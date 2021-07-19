@@ -1,0 +1,27 @@
+{
+  "name": "@ritterim/abbr",
+  "description": "Easy to import tool for finding descriptions to abbreviations within the RitterIM Glossary.",
+  "version": "0.0.6",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/abbr.umd.js",
+  "module": "./dist/abbr.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/abbr.es.js",
+      "require": "./dist/abbr.umd.js"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.4.2"
+  },
+  "dependencies": {
+    "sass": "^1.35.2"
+  }
+}
