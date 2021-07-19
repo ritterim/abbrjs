@@ -1,0 +1,20 @@
+[
+  {
+    "abbr": "FFS",
+    "definition": "Fee for service is a payment model in healthcare, where providers are paid for each service performed. Examples of services include individual tests, procedures, or treatments.",
+    "role": null,
+    "term": "Fee for Service"
+  },
+  {
+    "abbr": "FMO",
+    "definition": "Field marketing organizations are companies that offer insurance products and services to insurance agents or agencies. Ritter’s primary market is acting as an FMO in the senior life and health insurance markets. FMOs vary greatly on the extent of support, services, and resources that they provide to agents or carriers. Since FMOs typically work with independent agents that run their own business, higher quality FMOs will focus resources on helping their agents maintain and grow their businesses.",
+    "role": null,
+    "term": "Field Marketing Organization"
+  },
+  {
+    "abbr": "FDR",
+    "definition": "Medicare Advantage organizations or Part D plan sponsors can partner with external individuals or entities to provide administrative and healthcare-related services. If the delegated function is required of the plan under its contract with CMS, these external vendors may be considered First Tier, Downstream, and Related Entities. Healthcare providers may be responsible for monitoring and auditing third-party compliance with CMS standards. As an FMO in the health insurance industry, Ritter has contracts as a First Tier Entity with insurers that offer Medicare Advantage and prescription drug plans.",
+    "role": null,
+    "term": "First Tier, Downstream, and Related Entities"
+  }
+]
